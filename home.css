@@ -1,0 +1,35 @@
+body {
+    background-color: thistle;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.centerContent {
+    display: block;
+    margin: 0 auto;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#profile {
+    width: 30vw;
+    margin-top: 30px;
+}
+
+#home {
+    width: 50vw;
+    margin-top: 30px;
+}
